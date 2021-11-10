@@ -3,32 +3,32 @@
 	<ul class="nav flex-column">
 		<li class="nav-item">
 			<a class="nav-link" href="home.php">
-				<i class="fa fa-home"></i><span>Home</span>
+				<i class="fa fa-home"></i><span>Pagina Principal</span>
 			</a>
 		</li>
 		<li class="nav-item">
 			<a class="nav-link" href="status.php">
-				<i class="fa fa-users"></i><span>Status</span>
+				<i class="fa fa-users"></i><span>Mis publicaciones</span>
 			</a>
 		</li>
 		<li class="nav-item">
 			<a class="nav-link" href="showmessages.php">
-				<i class="fa fa-commenting-o"></i><span>Messages</span>
+				<i class="fa fa-commenting-o"></i><span>Mensajes</span>
 			</a>
 		</li>
 		<li class="nav-item">
 			<a class="nav-link" href="friend.php">
-				<i class="fa fa-users"></i><span>Friend</span>
+				<i class="fa fa-users"></i><span>Usuarios</span>
 			</a>
 		</li>
 		<li class="nav-item">
 			<a class="nav-link" href="information.php">
-				<i class="fa fa-info-circle"></i><span>Information</span>
+				<i class="fa fa-info-circle"></i><span>Informacion</span>
 			</a>
 		</li>
 		<li class="nav-item">
 			<a class="nav-link" href="logout.php">
-				<i class="fa fa-sign-out"></i><span>Log out</span>
+				<i class="fa fa-sign-out"></i><span>Cerrar Sesion</span>
 			</a>
 		</li>
 	</ul>

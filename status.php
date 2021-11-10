@@ -52,7 +52,7 @@
                                         <img id="output" width="200" />
                                     </div>
                                 </div>
-                                <button type="submit" class="btn btn-outline-danger" name="submit">Post</button>
+                                <button type="submit" class="btn btn-outline-danger" name="submit">Previsualizar</button>
                             </form>
                          </div>
                     </div>
@@ -76,7 +76,7 @@
                                                 echo "<div class='card-body'>";
                                                     echo "<div class='bg-white'>";
                                                         echo "<div class='d-flex flex-row fs-12'>";
-                                                        echo "<div class='like p-2 cursor'><i class='fa fa-thumbs-o-up'></i><span class='ml-1'><a href='like_post.php?id=".$row1['id']." '>Like</a></span></div>";
+                                                        echo "<div class='like p-2 cursor'><i class='fa fa-thumbs-o-up'></i><span class='ml-1'><a href='like_post.php?id=".$row1['id']." '>Publicar</a></span></div>";
                                                             echo "<div class='like p-2 cursor'><i class='fa fa-share'></i><span class='ml-1'>Share</span></div>";
                                                         echo"</div>";
                                                     echo"</div>";
